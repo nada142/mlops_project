@@ -1,4 +1,0 @@
-[core]
-    remote = myremote
-['remote "myremote"']
-    url = C:\Users\Dell\AppData\Local\Temp\dvc
