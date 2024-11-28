@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Dell/mlops_project/mlruns/479259597173105652
+creation_time: 1732817125347
+experiment_id: '479259597173105652'
+last_update_time: 1732817125347
+lifecycle_stage: active
+name: recipe_clustering_experiment

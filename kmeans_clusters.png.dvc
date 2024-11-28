@@ -1,0 +1,5 @@
+outs:
+- md5: ac92d0c10914c1d1dff94407336ff9b4
+  size: 104920
+  hash: md5
+  path: kmeans_clusters.png
