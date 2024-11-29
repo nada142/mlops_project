@@ -89,3 +89,5 @@ target/
 .mypy_cache/
 /kmeans_clusters.png
 /gmm_clusters.png
+/chunks
+/DATAFILE.md
