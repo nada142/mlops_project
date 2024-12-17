@@ -1,9 +1,0 @@
-stages:
-  process_chunks:
-    cmd: |
-      powershell -ExecutionPolicy ByPass -File process_chunks.ps1
-    deps:
-    - process_chunks.ps1
-    - src/data/recipe_full.csv
-    outs:
-    - chunks/
