@@ -11,7 +11,7 @@ COPY . /app
 # Copy the scaler file to the correct directory
 COPY minmax_scaler.pkl /app/streamlit_app/
 COPY model.pkl /app/streamlit_app/
-COPY data_processed.csv /app/streamlit_app/
+
 # Install dependencies
 RUN pip install --upgrade pip && pip install --default-timeout=1000 --no-cache-dir -r requirements.txt
 
